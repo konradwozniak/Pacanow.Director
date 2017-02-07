@@ -1,6 +1,0 @@
-C:\Development\Pacanow.Director\Pacanow.Director\bin\Debug\Pacanow.Director.exe.config
-C:\Development\Pacanow.Director\Pacanow.Director\bin\Debug\Pacanow.Director.exe
-C:\Development\Pacanow.Director\Pacanow.Director\bin\Debug\Pacanow.Director.pdb
-C:\Development\Pacanow.Director\Pacanow.Director\obj\Debug\Pacanow.Director.csprojResolveAssemblyReference.cache
-C:\Development\Pacanow.Director\Pacanow.Director\obj\Debug\Pacanow.Director.exe
-C:\Development\Pacanow.Director\Pacanow.Director\obj\Debug\Pacanow.Director.pdb
